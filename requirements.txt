@@ -1,0 +1,4 @@
+pandas
+sqlalchemy
+requests
+apache-airflow
